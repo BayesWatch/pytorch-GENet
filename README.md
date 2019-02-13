@@ -39,8 +39,7 @@ To train a WRN-16-8 with GE theta-plus blocks and extent 2, use:
 python train.py --depth 16 --width 8 --extent 2  --extra_params True --mlp True
 ```
  
-and so on, and so forth. To emulate the results in Table 5 of the paper, you can run `bash/go.sh`, although you will need your own tmux conf file.
-
+and so on, and so forth.
 
 ### Acknowledgements
 
