@@ -2,7 +2,7 @@
 
 An unofficial Pytorch implementation of https://arxiv.org/abs/1810.12348. Probably.
 
-The code replaces the standard blocks in a WideResNet with GEBlocks and trains these models in CIFAR-10/100. The blocks are defined in `models/blocks.py`
+The code replaces the standard blocks in a WideResNet with GEBlocks and trains these models on CIFAR-10/100. The blocks are defined in `models/blocks.py`
 
 The code is currently untested, so ... see what happens when you run it.
 
